@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-# Bartosz Wołak
+# Bartosz Wolak
 
 **Senior Frontend Engineer · Solution Architect · Team Lead**
 
